@@ -1,2 +1,3 @@
-This is the code used to create a simple morse code decoder using a TM4C123G microcontroller to create morse code symbols and decoding it into readable text. This code includes space as another symbol
-since it's a demo after all. Equation and commands where used to pick the array that coressponds to morse code. This is how the decoding process works.
+This code is used to create a simple morse code decoder using a TM4C123G microcontroller to create morse code symbols and decoding it into readable text. 
+
+
